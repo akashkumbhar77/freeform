@@ -15,5 +15,9 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func googleSignInOnClick(_ sender: Any) {
+        
+        print("Google Clicked!")
+    }
 }
 
